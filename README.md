@@ -103,9 +103,9 @@ WHERE weight BETWEEN 100 AND 120;
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 16     |
-| Medium     | 18     |
+| Medium     | 19     |
 | Hard       | 00     |
-| Total      | 34     |
+| Total      | 35     |
 
 ---
 
